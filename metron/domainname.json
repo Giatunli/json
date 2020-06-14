@@ -1,5 +1,5 @@
 {
-    'code': 1,
-    'url': 'https://auth.130130.xyz/check',
-    'time': '2020-06-14 00:00:00'
+    "code":1,
+    "url":"https://auth.130130.xyz/api/check",
+    "time":"2020-06-14 00:00:00"
 }
